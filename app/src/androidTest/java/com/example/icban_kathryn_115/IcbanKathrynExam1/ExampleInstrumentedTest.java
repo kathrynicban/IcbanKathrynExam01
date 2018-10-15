@@ -1,4 +1,4 @@
-package com.example.icban_kathryn_115.icbankathrynlab4;
+package com.example.icban_kathryn_115.IcbanKathrynExam1;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
